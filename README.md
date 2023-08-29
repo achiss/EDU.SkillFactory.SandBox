@@ -1,3 +1,3 @@
 # EDU.SkillFactory.SandBox
 
-###Sandbox for skiilfactory units
+###Sandbox for skilfactory units
